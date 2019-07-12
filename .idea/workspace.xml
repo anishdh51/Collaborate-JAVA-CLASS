@@ -2,63 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d2bcada-2723-476b-b329-d3e23dcc43b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ TestFileOne.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileToHidden.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Class.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFileThree.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFileTwo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/Collections/ListInterface/About Linklist InterFace" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/Collections/ListInterface/ArrayList_Intro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/Collections/ListInterface/ComparableAndComparator/Author.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/Collections/ListInterface/ComparableAndComparator/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/Collections/ListInterface/LinkedList_Intro$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/Collections/ListInterface/LinkedList_Intro$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/Collections/ListInterface/LinkedList_Intro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/Collections/ListInterface/List_Methods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/Collections/ListInterface/MapInterface/HashMapExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/Collections/ListInterface/MapInterface/MapInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/Collections/ListInterface/MapInterface/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/Collections/ListInterface/SetInterface/AllAboutSetInterface" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/Collections/ListInterface/SetInterface/Set_Intro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/File_IO/Append_File.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/File_IO/Code_Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/File_IO/CopyFiles.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/File_IO/CopyOfReadFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/File_IO/CreateFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/File_IO/DeleteTheFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/File_IO/FileWriterDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/File_IO/HideTheFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/File_IO/PipledStreamwithMultiThread$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/File_IO/PipledStreamwithMultiThread$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/File_IO/PipledStreamwithMultiThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/File_IO/ReadFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java Class/File_IO/ReadFileTypes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ListInterface/About Linklist InterFace" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ListInterface/ArrayList_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ListInterface/ComparableAndComparator/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ListInterface/ComparableAndComparator/AuthorLastNameComprator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ListInterface/ComparableAndComparator/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ListInterface/LinkedList_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ListInterface/List_Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ListInterface/MapInterface/HashMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ListInterface/MapInterface/MapInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ListInterface/MapInterface/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ListInterface/SetInterface/AllAboutSetInterface" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ListInterface/SetInterface/Set_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_IO/Append_File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_IO/Code_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_IO/CopyFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_IO/CopyOfReadFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_IO/CreateFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_IO/DeleteTheFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_IO/FileWriterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_IO/HideTheFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_IO/PipledStreamwithMultiThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_IO/ReadFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_IO/ReadFileTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,7 +15,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -128,6 +72,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,17 +85,10 @@
               <item name="Java Class" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Java Class" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java Class" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ListInterface" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,12 +202,20 @@
       <option name="presentableId" value="Default" />
       <updated>1562766238418</updated>
     </task>
+    <task id="LOCAL-00001" summary="some message">
+      <created>1562956380559</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562956380559</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28513515" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28986487" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -283,9 +229,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32941177" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32890856" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5006757" side_tool="true" weight="0.32890856" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49932432" weight="0.32890856" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32941177" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -324,6 +270,10 @@
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="some message" />
+    <option name="LAST_COMMIT_MESSAGE" value="some message" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Java Class.iml">
