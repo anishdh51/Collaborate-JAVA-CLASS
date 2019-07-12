@@ -1,0 +1,21 @@
+Doubly linked list implementation which implements List and Deque interfaces.
+Therefore, It can also be used as a Queue, Deque or Stack.
+
+Permits all elements including duplicates and NULL.
+
+LinkedList maintains the insertion order of the elements.
+
+It is not synchronized. If multiple threads access a linked list concurrently,
+and at least one of the threads modifies the list structurally,
+it must be synchronized externally.
+
+Use Collections.synchronizedList(new LinkedList()) to get synchronized linkedlist.
+
+The iterators returned by this class are fail-fast and may throw
+ConcurrentModificationException.
+It does not implement RandomAccess interface.
+So we can access elements in sequential order only.
+It does not support accessing elements randomly.
+
+
+We can use ListIterator to iterate LinkedList elements.
