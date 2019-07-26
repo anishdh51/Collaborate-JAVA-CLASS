@@ -12,6 +12,7 @@
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="AllAboutSetInterface" type="PLAIN_TEXT" />
+      <mapping pattern="How_to_generate_PrimaryKey" type="PLAIN_TEXT" />
       <mapping pattern="AboutMethodReference" type="PLAIN_TEXT" />
       <mapping pattern="About Linklist InterFace" type="PLAIN_TEXT" />
     </extensionMap>
